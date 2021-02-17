@@ -1,0 +1,18 @@
+body{ background:skyblue; font-size: 22px; font-family: 'Handlee', cursiva;}
+.primerdiv{ background:white; width: 600px; height: 480px; margin: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); padding: 15px}
+.primerdiv h1{margin: 0;}
+.encabezado{overflow: hidden;}
+.encabezado img{max-width: 70px; float: right;}
+h1{font-size: 37px; padding-top: 15px}
+input{font-size: 22px; font-family: 'Handlee', cursiva;}
+.mensaje{
+	float: left; width: 50%}
+.postcard-body{overflow: hidden;}
+
+.entradas{
+ 	float: right; width: 50%;}
+.entradas input{ display: block;}
+
+.final{padding: 10px; text-align: center;}
+.final input[type=Submit]{border: 1px solid gray;}
+.postcard-body input[type=text] {border: none; border-bottom: 1px solid gray; width: 230px; margin-bottom: 10px; padding: 5px}
